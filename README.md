@@ -1,1 +1,2 @@
-# doctor-eyes
+# Doctor's Eyes
+An app for scanning MRIs
